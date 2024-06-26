@@ -1,0 +1,748 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "andrewwells96@gmail.com",
+      "username": "aw31",
+      "password": "123"
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "title": "Super Mario Odyssey",
+      "difficultyId": 1,
+      "genreId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 4
+    },
+    {
+      "id": 2,
+      "title": "Zelda: Tears of the Kingdom",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 4
+    },
+    {
+      "id": 3,
+      "title": "Fortnite",
+      "difficultyId": 1,
+      "genreId": 3,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 4,
+      "title": "Elden Ring",
+      "difficultyId": 3,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 5,
+      "title": "Super Smash Bros. Ultimate",
+      "difficultyId": 2,
+      "genreId": 6,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 4
+    },
+    {
+      "id": 6,
+      "title": "Counter-Strike 2",
+      "difficultyId": 3,
+      "genreId": 3,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 1
+    },
+    {
+      "id": 7,
+      "title": "League of Legends",
+      "difficultyId": 2,
+      "genreId": 3,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 1
+    },
+    {
+      "id": 8,
+      "title": "Mario Cart 8",
+      "difficultyId": 1,
+      "genreId": 7,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 4
+    },
+    {
+      "id": 9,
+      "title": "Apex Legends",
+      "difficultyId": 2,
+      "genreId": 3,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 10,
+      "title": "Portal 2",
+      "difficultyId": 1,
+      "genreId": 1,
+      "playerCountId": 2,
+      "popularityId": 2,
+      "consoleId": 5
+    },
+    {
+      "id": 11,
+      "title": "God of War Ragnarök",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 8
+    },
+    {
+      "id": 12,
+      "title": "Ghost of Tsushima",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 8
+    },
+    {
+      "id": 13,
+      "title": "Sekiro: Shadows Die Twice",
+      "difficultyId": 3,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 14,
+      "title": "Hollow Knight",
+      "difficultyId": 3,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 2,
+      "consoleId": 5
+    },
+    {
+      "id": 15,
+      "title": "Baldur's Gate 3",
+      "difficultyId": 3,
+      "genreId": 1,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 16,
+      "title": "Teamfight Tactics",
+      "difficultyId": 2,
+      "genreId": 5,
+      "playerCountId": 3,
+      "popularityId": 2,
+      "consoleId": 1
+    },
+    {
+      "id": 17,
+      "title": "Call of Duty: Warzone",
+      "difficultyId": 2,
+      "genreId": 3,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 18,
+      "title": "Fall Guys",
+      "difficultyId": 1,
+      "genreId": 3,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 19,
+      "title": "Street Fighter 6",
+      "difficultyId": 2,
+      "genreId": 6,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 20,
+      "title": "Mulitversus",
+      "difficultyId": 2,
+      "genreId": 6,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 21,
+      "title": "Vampire Survivors",
+      "difficultyId": 2,
+      "genreId": 8,
+      "playerCountId": 1,
+      "popularityId": 2,
+      "consoleId": 5
+    },
+    {
+      "id": 22,
+      "title": "Red Dead Redemption II",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 23,
+      "title": "Super Mario Bros. Wonder",
+      "difficultyId": 1,
+      "genreId": 2,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 4
+    },
+    {
+      "id": 24,
+      "title": "Mario + Rabbids: Sparks of Hope",
+      "difficultyId": 1,
+      "genreId": 5,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 4
+    },
+    {
+      "id": 25,
+      "title": "Forza Motorsport",
+      "difficultyId": 2,
+      "genreId": 7,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 9
+    },
+    {
+      "id": 26,
+      "title": "Minecraft",
+      "difficultyId": 1,
+      "genreId": 1,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 27,
+      "title": "It Takes Two",
+      "difficultyId": 1,
+      "genreId": 2,
+      "playerCountId": 2,
+      "popularityId": 2,
+      "consoleId": 5
+    },
+    {
+      "id": 28,
+      "title": "Dark Souls: Remastered",
+      "difficultyId": 3,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 29,
+      "title": "Sonic Frontiers",
+      "difficultyId": 1,
+      "genreId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 30,
+      "title": "Pokémon: Scarlet and Violet",
+      "difficultyId": 1,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 4
+    },
+    {
+      "id": 31,
+      "title": "Pokémon Unite",
+      "difficultyId": 2,
+      "genreId": 3,
+      "playerCountId": 3,
+      "popularityId": 2,
+      "consoleId": 4
+    }
+  ],
+  "difficulties": [
+    {
+      "id": 1,
+      "type": "Easy"
+    },
+    {
+      "id": 2,
+      "type": "Moderate"
+    },
+    {
+      "id": 3,
+      "type": "Difficult"
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "type": "Adventure"
+    },
+    {
+      "id": 2,
+      "type": "Platformer"
+    },
+    {
+      "id": 3,
+      "type": "Competitive"
+    },
+    {
+      "id": 4,
+      "type": "MMO"
+    },
+    {
+      "id": 5,
+      "type": "Strategy"
+    },
+    {
+      "id": 6,
+      "type": "Fighting"
+    },
+    {
+      "id": 7,
+      "type": "Racing"
+    },
+    {
+      "id": 8,
+      "type": "Roguelite/Roguelike"
+    }
+  ],
+  "playerCounts": [
+    {
+      "id": 1,
+      "type": "Single-player"
+    },
+    {
+      "id": 2,
+      "type": "Co-op"
+    },
+    {
+      "id": 3,
+      "type": "Multiplayer"
+    },
+    {
+      "id": 4,
+      "type": "Single-player and Co-op"
+    }
+  ],
+  "popularities": [
+    {
+      "id": 1,
+      "type": "Well-known"
+    },
+    {
+      "id": 2,
+      "type": "Lesser-known"
+    }
+  ],
+  "consoles": [
+    {
+      "id": 1,
+      "type": "PC"
+    },
+    {
+      "id": 2,
+      "type": "Xbox"
+    },
+    {
+      "id": 3,
+      "type": "Playstation"
+    },
+    {
+      "id": 4,
+      "type": "Nintendo Switch"
+    },
+    {
+      "id": 5,
+      "type": "All Platforms"
+    },
+    {
+      "id": 6,
+      "type": "PC, Xbox, and Playstation"
+    },
+    {
+      "id": 7,
+      "type": "Xbox and Playstation"
+    },
+    {
+      "id": 8,
+      "type": "PC and Playstation"
+    },
+    {
+      "id": 9,
+      "type": "PC and Xbox"
+    }
+  ],
+  "gamesConsole": [
+    {
+      "id": 1,
+      "gameId": 1,
+      "consoleId": 4
+    },
+    {
+      "id": 2,
+      "gameId": 2,
+      "consoleId": 4
+    },
+    {
+      "id": 3,
+      "gameId": 3,
+      "consoleId": 5
+    },
+    {
+      "id": 4,
+      "gameId": 4,
+      "consoleId": 6
+    },
+    {
+      "id": 5,
+      "gameId": 5,
+      "consoleId": 4
+    },
+    {
+      "id": 6,
+      "gameId": 6,
+      "consoleId": 1
+    },
+    {
+      "id": 7,
+      "gameId": 7,
+      "consoleId": 1
+    },
+    {
+      "id": 8,
+      "gameId": 8,
+      "consoleId": 4
+    },
+    {
+      "id": 9,
+      "gameId": 9,
+      "consoleId": 5
+    },
+    {
+      "id": 10,
+      "gameId": 10,
+      "consoleId": 5
+    },
+    {
+      "id": 11,
+      "gameId": 11,
+      "consoleId": 8
+    },
+    {
+      "id": 12,
+      "gameId": 12,
+      "consoleId": 8
+    },
+    {
+      "id": 13,
+      "gameId": 13,
+      "consoleId": 6
+    },
+    {
+      "id": 14,
+      "gameId": 14,
+      "consoleId": 5
+    },
+    {
+      "id": 15,
+      "gameId": 15,
+      "consoleId": 4
+    },
+    {
+      "id": 16,
+      "gameId": 16,
+      "consoleId": 6
+    },
+    {
+      "id": 17,
+      "gameId": 17,
+      "consoleId": 1
+    },
+    {
+      "id": 18,
+      "gameId": 18,
+      "consoleId": 6
+    },
+    {
+      "id": 19,
+      "gameId": 19,
+      "consoleId": 6
+    },
+    {
+      "id": 20,
+      "gameId": 20,
+      "consoleId": 6
+    },
+    {
+      "id": 21,
+      "gameId": 21,
+      "consoleId": 5
+    },
+    {
+      "id": 22,
+      "gameId": 22,
+      "consoleId": 5
+    },
+    {
+      "id": 23,
+      "gameId": 23,
+      "consoleId": 4
+    },
+    {
+      "id": 24,
+      "gameId": 24,
+      "consoleId": 4
+    },
+    {
+      "id": 25,
+      "gameId": 25,
+      "consoleId": 9
+    },
+    {
+      "id": 26,
+      "gameId": 26,
+      "consoleId": 5
+    },
+    {
+      "id": 27,
+      "gameId": 27,
+      "consoleId": 5
+    },
+    {
+      "id": 28,
+      "gameId": 28,
+      "consoleId": 5
+    },
+    {
+      "id": 29,
+      "gameId": 29,
+      "consoleId": 5
+    },
+    {
+      "id": 30,
+      "gameId": 30,
+      "consoleId": 4
+    },
+    {
+      "id": 31,
+      "gameId": 31,
+      "consoleId": 4
+    }
+  ],
+  "results": [
+    {
+      "id": 1,
+      "genreId": 2,
+      "popularityId": 1,
+      "difficultyId": 1,
+      "playerCountId": 1,
+      "consoleId": 4
+    },
+    {
+      "consoleId": 1,
+      "genreId": 1,
+      "difficultyId": 3,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 2
+    },
+    {
+      "consoleId": 5,
+      "genreId": 1,
+      "difficultyId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 3
+    },
+    {
+      "consoleId": 8,
+      "genreId": 1,
+      "difficultyId": 2,
+      "playerCountId": 1,
+      "popularityId": 0,
+      "id": 4
+    },
+    {
+      "consoleId": 8,
+      "genreId": 1,
+      "difficultyId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 5
+    },
+    {
+      "consoleId": 5,
+      "genreId": 3,
+      "difficultyId": 2,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "id": 6
+    },
+    {
+      "consoleId": 9,
+      "genreId": 1,
+      "difficultyId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 7
+    },
+    {
+      "consoleId": 4,
+      "genreId": 2,
+      "difficultyId": 1,
+      "playerCountId": 2,
+      "popularityId": 1,
+      "id": 8
+    },
+    {
+      "consoleId": 5,
+      "genreId": 2,
+      "difficultyId": 2,
+      "playerCountId": 1,
+      "popularityId": 2,
+      "id": 9
+    },
+    {
+      "consoleId": 5,
+      "genreId": 1,
+      "difficultyId": 3,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 10
+    },
+    {
+      "consoleId": 5,
+      "genreId": 1,
+      "difficultyId": 3,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "id": 11
+    },
+    {
+      "consoleId": 6,
+      "genreId": 1,
+      "difficultyId": 3,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 12
+    },
+    {
+      "consoleId": 9,
+      "genreId": 1,
+      "difficultyId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 13
+    },
+    {
+      "consoleId": 1,
+      "genreId": 1,
+      "difficultyId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 14
+    },
+    {
+      "consoleId": 6,
+      "genreId": 3,
+      "difficultyId": 2,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "id": 15
+    },
+    {
+      "consoleId": 4,
+      "genreId": 6,
+      "difficultyId": 2,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "id": 16
+    },
+    {
+      "consoleId": 2,
+      "genreId": 1,
+      "difficultyId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 17
+    },
+    {
+      "consoleId": 5,
+      "genreId": 1,
+      "difficultyId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 18
+    },
+    {
+      "consoleId": 4,
+      "genreId": 6,
+      "difficultyId": 2,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "id": 19
+    },
+    {
+      "consoleId": 5,
+      "genreId": 1,
+      "difficultyId": 1,
+      "playerCountId": 2,
+      "popularityId": 2,
+      "id": 20
+    },
+    {
+      "consoleId": 4,
+      "genreId": 2,
+      "difficultyId": 1,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "id": 21
+    },
+    {
+      "consoleId": 4,
+      "genreId": 2,
+      "difficultyId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 22
+    },
+    {
+      "consoleId": 5,
+      "genreId": 3,
+      "difficultyId": 2,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "id": 23
+    }
+  ]
+}

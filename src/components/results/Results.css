@@ -1,0 +1,13 @@
+.results-container {
+    display: flex;
+    align-content: center;
+    flex-direction: column;
+    justify-content: center;
+    width: auto;
+    background-color: rgb(47, 121, 213) ;
+    text-align: center;
+}
+
+body {
+    background-color: red;
+}

@@ -1,0 +1,18 @@
+.welcome-container {
+    background-color: rgb(47, 121, 213) ;
+    justify-content: center;
+    text-align: center;
+    padding-top: 80px;
+    font-size: 25px;
+    font-style: bold;
+    text-shadow: 2px 2px 4px rgb(64, 158, 252);
+    }
+
+
+body {
+    background-color: rgb(47, 121, 213);
+  }
+
+  .header-1 {
+    font-size:80px;
+  }
