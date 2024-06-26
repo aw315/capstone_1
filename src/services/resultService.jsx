@@ -1,5 +1,5 @@
-export const getResultsByIds = (genreId, popularityId, difficultyId, playerCountId, consoleId) => {
-    return fetch(`http://localhost:8088/games?genreId=${genreId}&popularityId=${popularityId}&difficultyId=${difficultyId}&playerCountId=${playerCountId}&consoleId=${consoleId}&_expand=genre&_expand=popularity&_expand=difficulty&_expand=playerCount&_expand=console`).then(res => res.json())
+export const getResultsByIds = (genreId, popularityId, difficultyId, playerCountId) => {
+    return fetch(`http://localhost:8088/games?genreId=${genreId}&popularityId=${popularityId}&difficultyId=${difficultyId}&playerCountId=${playerCountId}&_expand=genre&_expand=popularity&_expand=difficulty&_expand=playerCount&_expand=console`).then(res => res.json())
 }
 
 export const getResultById = (resultId) => {
@@ -19,3 +19,5 @@ export const addResult = (result) => {
         return data.id
     })
 }
+
+//various fetch calls - that would check for true false
