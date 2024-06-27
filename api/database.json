@@ -15,10 +15,7 @@
       "genreId": 2,
       "playerCountId": 1,
       "popularityId": 1,
-      "xbox": false,
-      "switch": true,
-      "playstation": false,
-      "PC": false
+      "consoleId": 4
     },
     {
       "id": 2,
@@ -27,10 +24,7 @@
       "genreId": 1,
       "playerCountId": 1,
       "popularityId": 1,
-      "xbox": false,
-      "switch": true,
-      "playstation": false,
-      "PC": false
+      "consoleId": 4
     },
     {
       "id": 3,
@@ -39,10 +33,7 @@
       "genreId": 3,
       "playerCountId": 3,
       "popularityId": 1,
-      "xbox": true,
-      "switch": true,
-      "playstation": true,
-      "PC": true
+      "consoleId": 5
     },
     {
       "id": 4,
@@ -51,10 +42,7 @@
       "genreId": 1,
       "playerCountId": 1,
       "popularityId": 1,
-      "xbox": true,
-      "switch": false,
-      "playstation": true,
-      "PC": true
+      "consoleId": 6
     },
     {
       "id": 5,
@@ -63,10 +51,7 @@
       "genreId": 6,
       "playerCountId": 3,
       "popularityId": 1,
-      "xbox": false,
-      "switch": true,
-      "playstation": false,
-      "PC": false
+      "consoleId": 4
     },
     {
       "id": 6,
@@ -75,10 +60,7 @@
       "genreId": 3,
       "playerCountId": 3,
       "popularityId": 1,
-      "xbox": false,
-      "switch": false,
-      "playstation": false,
-      "PC": true
+      "consoleId": 1
     },
     {
       "id": 7,
@@ -87,10 +69,7 @@
       "genreId": 3,
       "playerCountId": 3,
       "popularityId": 1,
-      "xbox": false,
-      "switch": false,
-      "playstation": false,
-      "PC": true
+      "consoleId": 1
     },
     {
       "id": 8,
@@ -99,10 +78,7 @@
       "genreId": 7,
       "playerCountId": 3,
       "popularityId": 1,
-      "xbox": false,
-      "switch": true,
-      "playstation": false,
-      "PC": false
+      "consoleId": 4
     },
     {
       "id": 9,
@@ -111,10 +87,7 @@
       "genreId": 3,
       "playerCountId": 3,
       "popularityId": 1,
-      "xbox": true,
-      "switch": true,
-      "playstation": true,
-      "PC": true
+      "consoleId": 5
     },
     {
       "id": 10,
@@ -123,10 +96,7 @@
       "genreId": 1,
       "playerCountId": 2,
       "popularityId": 2,
-      "xbox": true,
-      "switch": true,
-      "playstation": true,
-      "PC": true
+      "consoleId": 5
     },
     {
       "id": 11,
@@ -135,10 +105,7 @@
       "genreId": 1,
       "playerCountId": 1,
       "popularityId": 1,
-      "xbox": false,
-      "switch": false,
-      "playstation": true,
-      "PC": true
+      "consoleId": 8
     },
     {
       "id": 12,
@@ -147,10 +114,7 @@
       "genreId": 1,
       "playerCountId": 1,
       "popularityId": 1,
-      "xbox": false,
-      "switch": false,
-      "playstation": true,
-      "PC": true
+      "consoleId": 8
     },
     {
       "id": 13,
@@ -159,10 +123,7 @@
       "genreId": 1,
       "playerCountId": 1,
       "popularityId": 1,
-      "xbox": true,
-      "switch": false,
-      "playstation": true,
-      "PC": true
+      "consoleId": 6
     },
     {
       "id": 14,
@@ -171,10 +132,7 @@
       "genreId": 1,
       "playerCountId": 1,
       "popularityId": 2,
-      "xbox": true,
-      "switch": true,
-      "playstation": true,
-      "PC": true
+      "consoleId": 5
     },
     {
       "id": 15,
@@ -183,10 +141,7 @@
       "genreId": 1,
       "playerCountId": 4,
       "popularityId": 1,
-      "xbox": true,
-      "switch": false,
-      "playstation": true,
-      "PC": true
+      "consoleId": 6
     },
     {
       "id": 16,
@@ -195,10 +150,7 @@
       "genreId": 5,
       "playerCountId": 3,
       "popularityId": 2,
-      "xbox": false,
-      "switch": false,
-      "playstation": false,
-      "PC": true
+      "consoleId": 1
     },
     {
       "id": 17,
@@ -207,10 +159,7 @@
       "genreId": 3,
       "playerCountId": 3,
       "popularityId": 1,
-      "xbox": true,
-      "switch": false,
-      "playstation": true,
-      "PC": true
+      "consoleId": 6
     },
     {
       "id": 18,
@@ -219,10 +168,7 @@
       "genreId": 3,
       "playerCountId": 3,
       "popularityId": 1,
-      "xbox": true,
-      "switch": true,
-      "playstation": true,
-      "PC": true
+      "consoleId": 5
     },
     {
       "id": 19,
@@ -231,10 +177,7 @@
       "genreId": 6,
       "playerCountId": 3,
       "popularityId": 1,
-      "xbox": true,
-      "switch": false,
-      "playstation": true,
-      "PC": true
+      "consoleId": 6
     },
     {
       "id": 20,
@@ -243,10 +186,7 @@
       "genreId": 6,
       "playerCountId": 3,
       "popularityId": 1,
-      "xbox": true,
-      "switch": false,
-      "playstation": true,
-      "PC": true
+      "consoleId": 6
     },
     {
       "id": 21,
@@ -255,10 +195,7 @@
       "genreId": 8,
       "playerCountId": 1,
       "popularityId": 2,
-      "xbox": true,
-      "switch": true,
-      "playstation": true,
-      "PC": true
+      "consoleId": 5
     },
     {
       "id": 22,
@@ -267,10 +204,7 @@
       "genreId": 1,
       "playerCountId": 1,
       "popularityId": 1,
-      "xbox": true,
-      "switch": true,
-      "playstation": true,
-      "PC": true
+      "consoleId": 5
     },
     {
       "id": 23,
@@ -279,10 +213,7 @@
       "genreId": 2,
       "playerCountId": 4,
       "popularityId": 1,
-      "xbox": false,
-      "switch": true,
-      "playstation": false,
-      "PC": false
+      "consoleId": 4
     },
     {
       "id": 24,
@@ -291,10 +222,7 @@
       "genreId": 5,
       "playerCountId": 1,
       "popularityId": 1,
-      "xbox": false,
-      "switch": true,
-      "playstation": false,
-      "PC": false
+      "consoleId": 4
     },
     {
       "id": 25,
@@ -303,22 +231,16 @@
       "genreId": 7,
       "playerCountId": 3,
       "popularityId": 1,
-      "xbox": true,
-      "switch": false,
-      "playstation": false,
-      "PC": true
+      "consoleId": 9
     },
     {
       "id": 26,
       "title": "Minecraft",
       "difficultyId": 1,
-      "genreId": 9,
+      "genreId": 1,
       "playerCountId": 4,
       "popularityId": 1,
-      "xbox": true,
-      "switch": true,
-      "playstation": true,
-      "PC": true
+      "consoleId": 5
     },
     {
       "id": 27,
@@ -327,10 +249,7 @@
       "genreId": 2,
       "playerCountId": 2,
       "popularityId": 2,
-      "xbox": true,
-      "switch": true,
-      "playstation": true,
-      "PC": true
+      "consoleId": 5
     },
     {
       "id": 28,
@@ -339,10 +258,7 @@
       "genreId": 1,
       "playerCountId": 1,
       "popularityId": 1,
-      "xbox": true,
-      "switch": true,
-      "playstation": true,
-      "PC": true
+      "consoleId": 5
     },
     {
       "id": 29,
@@ -351,10 +267,7 @@
       "genreId": 2,
       "playerCountId": 1,
       "popularityId": 1,
-      "xbox": true,
-      "switch": true,
-      "playstation": true,
-      "PC": true
+      "consoleId": 5
     },
     {
       "id": 30,
@@ -363,10 +276,7 @@
       "genreId": 1,
       "playerCountId": 1,
       "popularityId": 1,
-      "xbox": false,
-      "switch": true,
-      "playstation": false,
-      "PC": false
+      "consoleId": 4
     },
     {
       "id": 31,
@@ -375,166 +285,7 @@
       "genreId": 3,
       "playerCountId": 3,
       "popularityId": 2,
-      "xbox": false,
-      "switch": true,
-      "playstation": false,
-      "PC": false
-    },
-    {
-      "id": 32,
-      "title": "Slay the Spire",
-      "difficultyId": 2,
-      "genreId": 8,
-      "playerCountId": 1,
-      "popularityId": 2,
-      "xbox": true,
-      "switch": true,
-      "playstation": true,
-      "PC": true
-    },
-    {
-      "id": 33,
-      "title": "Hades",
-      "difficultyId": 3,
-      "genreId": 8,
-      "playerCountId": 1,
-      "popularityId": 1,
-      "xbox": true,
-      "switch": true,
-      "playstation": true,
-      "PC": true
-    },
-    {
-      "id": 34,
-      "title": "Hades 2",
-      "difficultyId": 3,
-      "genreId": 8,
-      "playerCountId": 1,
-      "popularityId": 1,
-      "xbox": true,
-      "switch": false,
-      "playstation": true,
-      "PC": true
-    },
-    {
-      "id": 35,
-      "title": "Stardew Valley",
-      "difficultyId": 1,
-      "genreId": 9,
-      "playerCountId": 4,
-      "popularityId": 1,
-      "xbox": true,
-      "switch": true,
-      "playstation": true,
-      "PC": true
-    },
-    {
-      "id": 36,
-      "title": "Animal Crossing: New Horizons",
-      "difficultyId": 1,
-      "genreId": 9,
-      "playerCountId": 4,
-      "popularityId": 1,
-      "xbox": false,
-      "switch": true,
-      "playstation": false,
-      "PC": false
-    },
-    {
-      "id": 37,
-      "title": "Starcraft 2",
-      "difficultyId": 3,
-      "genreId": 5,
-      "playerCountId": 3,
-      "popularityId": 1,
-      "xbox": false,
-      "switch": false,
-      "playstation": false,
-      "PC": true
-    },
-    {
-      "id": 38,
-      "title": "Tom Clancy's: Rainbow Six Siege",
-      "difficultyId": 2,
-      "genreId": 3,
-      "playerCountId": 3,
-      "popularityId": 1,
-      "xbox": true,
-      "switch": false,
-      "playstation": true,
-      "PC": true
-    },
-    {
-      "id": 39,
-      "title": "World of Warcraft",
-      "difficultyId": 2,
-      "genreId": 4,
-      "playerCountId": 3,
-      "popularityId": 1,
-      "xbox": false,
-      "switch": false,
-      "playstation": false,
-      "PC": true
-    },
-    {
-      "id": 40,
-      "title": "Elder Scrolls: Online",
-      "difficultyId": 2,
-      "genreId": 4,
-      "playerCountId": 3,
-      "popularityId": 1,
-      "xbox": true,
-      "switch": false,
-      "playstation": true,
-      "PC": true
-    },
-    {
-      "id": 41,
-      "title": "New World",
-      "difficultyId": 2,
-      "genreId": 4,
-      "playerCountId": 3,
-      "popularityId": 1,
-      "xbox": false,
-      "switch": false,
-      "playstation": false,
-      "PC": true
-    },
-    {
-      "id": 42,
-      "title": "XDefiant",
-      "difficultyId": 2,
-      "genreId": 3,
-      "playerCountId": 3,
-      "popularityId": 1,
-      "xbox": true,
-      "switch": false,
-      "playstation": true,
-      "PC": true
-    },
-    {
-      "id": 43,
-      "title": "Balatro",
-      "difficultyId": 2,
-      "genreId": 8,
-      "playerCountId": 1,
-      "popularityId": 2,
-      "xbox": false,
-      "switch": false,
-      "playstation": false,
-      "PC": true
-    },
-    {
-      "id": 44,
-      "title": "Hogwarts Legacy",
-      "difficultyId": 2,
-      "genreId": 1,
-      "playerCountId": 1,
-      "popularityId": 1,
-      "xbox": true,
-      "switch": true,
-      "playstation": true,
-      "PC": true
+      "consoleId": 4
     }
   ],
   "difficulties": [
@@ -583,10 +334,6 @@
     {
       "id": 8,
       "type": "Roguelite/Roguelike"
-    },
-    {
-      "id": 9,
-      "type": "Simulation/Survival"
     }
   ],
   "playerCounts": [
@@ -998,12 +745,116 @@
       "id": 23
     },
     {
+      "consoleId": 7,
+      "genreId": 5,
+      "difficultyId": 3,
+      "playerCountId": 2,
+      "popularityId": 1,
+      "id": 24
+    },
+    {
+      "consoleId": 6,
+      "genreId": 1,
+      "difficultyId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 25
+    },
+    {
+      "consoleId": 7,
+      "genreId": 3,
+      "difficultyId": 2,
+      "playerCountId": 3,
+      "popularityId": 2,
+      "id": 26
+    },
+    {
       "consoleId": 5,
+      "genreId": 2,
+      "difficultyId": 3,
+      "playerCountId": 2,
+      "popularityId": 2,
+      "id": 27
+    },
+    {
+      "consoleId": 4,
+      "genreId": 1,
+      "difficultyId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 28
+    },
+    {
+      "consoleId": 5,
+      "genreId": 1,
+      "difficultyId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 29
+    },
+    {
+      "consoleId": 6,
       "genreId": 1,
       "difficultyId": 3,
       "playerCountId": 1,
       "popularityId": 1,
-      "id": 24
+      "id": 30
+    },
+    {
+      "consoleId": 5,
+      "genreId": 2,
+      "difficultyId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 31
+    },
+    {
+      "consoleId": 8,
+      "genreId": 1,
+      "difficultyId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 32
+    },
+    {
+      "consoleId": 5,
+      "genreId": 1,
+      "difficultyId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 33
+    },
+    {
+      "consoleId": 4,
+      "genreId": 2,
+      "difficultyId": 1,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "id": 34
+    },
+    {
+      "consoleId": 5,
+      "genreId": 1,
+      "difficultyId": 2,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "id": 35
+    },
+    {
+      "consoleId": 5,
+      "genreId": 2,
+      "difficultyId": 2,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "id": 36
+    },
+    {
+      "consoleId": 5,
+      "genreId": 2,
+      "difficultyId": 1,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "id": 37
     }
   ]
 }

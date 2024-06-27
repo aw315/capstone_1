@@ -1,6 +1,6 @@
 // this is where the games will be listed
 import { useNavigate, useParams } from "react-router-dom"
-import { getResultById, getResultsByIds } from "../../services/resultService.jsx"
+import { getAllPlatformsResultsByIds, getResultById, getResultsByConsoleId6, getResultsByConsoleId7, getResultsByConsoleId8, getResultsByConsoleId9, getSinglePlatformResultsByIds } from "../../services/resultService.jsx"
 import { useState, useEffect } from "react"
 import "./Results.css"
 import { Button } from "reactstrap"
@@ -11,39 +11,55 @@ export const ResultsList = () => {
     const { resultId } = useParams()
 
     let navigate = useNavigate()
-    
+
     useEffect(() => {
         getResultById(resultId).then((resultArray) => {
             setResult(resultArray)
             })
             }, [])
-            
+
+useEffect(() => {
     //switch case
     switch(result.consoleId) {
-        case 1:
-            console.log("switch")
-            break;
-        case 2:
-            console.log("xbox")
-            break;
-        case 3: 
-            console.log("playstation")
-            break;
-        case 4:
-            console.log("PC")
+        default:   getSinglePlatformResultsByIds(result?.genreId, result?.popularityId, result?.difficultyId, result?.playerCountId, result?.consoleId).then((resultArray) => {
+                return setResults(resultArray)})
+                console.log("default")
             break;
         case 5:
-            console.log("all")
-            break;
-    }
-    // genreId, popularityId, difficultyId, playerCountId, consoleId
-    useEffect(() => {
-        //future Sarah - we need to filter this by resultIds to get the right results to print on this list
-        getResultsByIds(result?.genreId, result?.popularityId, result?.difficultyId, result?.playerCountId).then((resultArray) => {
+            getAllPlatformsResultsByIds(result?.genreId, result?.popularityId, result?.difficultyId, result?.playerCountId).then((resultArray) => {
                 return setResults(resultArray)
             })
+            console.log("5")
+            break;
+        case 6: 
+            getResultsByConsoleId6(result?.genreId, result?.popularityId, result?.difficultyId, result?.playerCountId).then((resultArray) => {
+                return setResults(resultArray)
+            })
+            console.log("6")
+            break;
+        case 7:
+            getResultsByConsoleId7(result?.genreId, result?.popularityId, result?.difficultyId, result?.playerCountId).then((resultArray) => {
+                    return setResults(resultArray)
+                })
+                console.log("7")
+            break;
+        case 8:
+            getResultsByConsoleId8(result?.genreId, result?.popularityId, result?.difficultyId, result?.playerCountId).then((resultArray) => {
+                    return setResults(resultArray)
+                })
+                console.log("8")
+            break;
+        case 9:
+            getResultsByConsoleId9(result?.genreId, result?.popularityId, result?.difficultyId, result?.playerCountId).then((resultArray) => {
+                    return setResults(resultArray)
+                })
+                console.log("9")
+            break;            
+    }
         }
     , [result])
+
+
 
 
     
