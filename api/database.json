@@ -181,7 +181,7 @@
     },
     {
       "id": 20,
-      "title": "Mulitversus",
+      "title": "Multiversus",
       "difficultyId": 2,
       "genreId": 6,
       "playerCountId": 3,
@@ -237,7 +237,7 @@
       "id": 26,
       "title": "Minecraft",
       "difficultyId": 1,
-      "genreId": 1,
+      "genreId": 9,
       "playerCountId": 4,
       "popularityId": 1,
       "consoleId": 5
@@ -286,6 +286,276 @@
       "playerCountId": 3,
       "popularityId": 2,
       "consoleId": 4
+    },
+    {
+      "id": 32,
+      "title": "Stardew Valley",
+      "difficultyId": 1,
+      "genreId": 9,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 33,
+      "title": "Animal Crossing: New Horizons",
+      "difficultyId": 1,
+      "genreId": 9,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 4
+    },
+    {
+      "id": 34,
+      "title": "Slay the Spire",
+      "difficultyId": 2,
+      "genreId": 8,
+      "playerCountId": 1,
+      "popularityId": 2,
+      "consoleId": 5
+    },
+    {
+      "id": 35,
+      "title": "Humankind",
+      "difficultyId": 2,
+      "genreId": 5,
+      "playerCountId": 1,
+      "popularityId": 2,
+      "consoleId": 6
+    },
+    {
+      "id": 36,
+      "title": "Hades",
+      "difficultyId": 3,
+      "genreId": 8,
+      "playerCountId": 1,
+      "popularityId": 2,
+      "consoleId": 5
+    },
+    {
+      "id": 37,
+      "title": "Hades 2",
+      "difficultyId": 3,
+      "genreId": 8,
+      "playerCountId": 1,
+      "popularityId": 2,
+      "consoleId": 6
+    },
+    {
+      "id": 38,
+      "title": "Overcooked",
+      "difficultyId": 1,
+      "genreId": 1,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 39,
+      "title": "Balatro",
+      "difficultyId": 2,
+      "genreId": 8,
+      "playerCountId": 1,
+      "popularityId": 2,
+      "consoleId": 6
+    },
+    {
+      "id": 40,
+      "title": "DayZ",
+      "difficultyId": 2,
+      "genreId": 9,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 41,
+      "title": "Dark and Darker",
+      "difficultyId": 2,
+      "genreId": 8,
+      "playerCountId": 4,
+      "popularityId": 2,
+      "consoleId": 1
+    },
+    {
+      "id": 42,
+      "title": "XDefiant",
+      "difficultyId": 2,
+      "genreId": 3,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 43,
+      "title": "Halo Infinite",
+      "difficultyId": 2,
+      "genreId": 3,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 9
+    },
+    {
+      "id": 44,
+      "title": "Call of Duty: Modern Warfare II",
+      "difficultyId": 2,
+      "genreId": 3,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 45,
+      "title": "Splatoon 2",
+      "difficultyId": 1,
+      "genreId": 3,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 4
+    },
+    {
+      "id": 46,
+      "title": "Dredge",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 2,
+      "consoleId": 5
+    },
+    {
+      "id": 47,
+      "title": "Sea of Thieves",
+      "difficultyId": 1,
+      "genreId": 1,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 48,
+      "title": "Forager",
+      "difficultyId": 1,
+      "genreId": 9,
+      "playerCountId": 4,
+      "popularityId": 2,
+      "consoleId": 5
+    },
+    {
+      "id": 49,
+      "title": "Assassin's Creed Valhalla",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 50,
+      "title": "A Hat in Time",
+      "difficultyId": 1,
+      "genreId": 2,
+      "playerCountId": 1,
+      "popularityId": 2,
+      "consoleId": 5
+    },
+    {
+      "id": 50,
+      "title": "Mario Party: Superstars",
+      "difficultyId": 1,
+      "genreId": 3,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 4
+    },
+    {
+      "id": 51,
+      "title": "Pummel Party",
+      "difficultyId": 1,
+      "genreId": 3,
+      "playerCountId": 4,
+      "popularityId": 2,
+      "consoleId": 5
+    },
+    {
+      "id": 52,
+      "title": "Mario Party: Superstars",
+      "difficultyId": 1,
+      "genreId": 5,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 4
+    },
+    {
+      "id": 53,
+      "title": "Chivalry 2",
+      "difficultyId": 2,
+      "genreId": 6,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 54,
+      "title": "Football Manager 2024",
+      "difficultyId": 2,
+      "genreId": 5,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 55,
+      "title": "The Legend of Zelda: Link's Awakening",
+      "difficultyId": 1,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 4
+    },
+    {
+      "id": 56,
+      "title": "Super Mario Maker 2",
+      "difficultyId": 1,
+      "genreId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 4
+    },
+    {
+      "id": 57,
+      "title": "Pikmin 4",
+      "difficultyId": 1,
+      "genreId": 5,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 58,
+      "title": "Minecraft Legends",
+      "difficultyId": 1,
+      "genreId": 5,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 59,
+      "title": "Minecraft Dungeons",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 60,
+      "title": "Monopoly Plus",
+      "difficultyId": 1,
+      "genreId": 5,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 5
     }
   ],
   "difficulties": [
@@ -334,6 +604,10 @@
     {
       "id": 8,
       "type": "Roguelite/Roguelike"
+    },
+    {
+      "id": 9,
+      "type": "Sandbox/Survival"
     }
   ],
   "playerCounts": [
