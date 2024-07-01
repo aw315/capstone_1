@@ -1,6 +1,6 @@
 // this is where the games will be listed
 import { useNavigate, useParams } from "react-router-dom"
-import { getAllPlatformsResultsByIds, getResultById, getResultsByConsoleId6, getResultsByConsoleId7, getResultsByConsoleId8, getResultsByConsoleId9, getSinglePlatformResultsByIds } from "../../services/resultService.jsx"
+import { getAllPlatformsResultsByIds, getResultById, getResultsByConsoleId1, getResultsByConsoleId2, getResultsByConsoleId3, getResultsByConsoleId4, getResultsByConsoleId6, getResultsByConsoleId7, getResultsByConsoleId8, getResultsByConsoleId9, getSinglePlatformResultsByIds } from "../../services/resultService.jsx"
 import { useState, useEffect } from "react"
 import "./Results.css"
 import { Button } from "reactstrap"
@@ -24,6 +24,30 @@ useEffect(() => {
         default:   getSinglePlatformResultsByIds(result?.genreId, result?.popularityId, result?.difficultyId, result?.playerCountId, result?.consoleId).then((resultArray) => {
                 return setResults(resultArray)})
                 console.log("default")
+            break;
+        case 1:
+            getResultsByConsoleId1(result?.genreId, result?.popularityId, result?.difficultyId, result?.playerCountId).then((resultArray) => {
+                return setResults(resultArray)
+            })
+            console.log("1")
+            break;
+        case 2:
+            getResultsByConsoleId2(result?.genreId, result?.popularityId, result?.difficultyId, result?.playerCountId).then((resultArray) => {
+                return setResults(resultArray)
+            })
+            console.log("2")
+            break;
+        case 3:
+            getResultsByConsoleId3(result?.genreId, result?.popularityId, result?.difficultyId, result?.playerCountId).then((resultArray) => {
+                return setResults(resultArray)
+            })
+            console.log("3")
+            break;
+        case 4:
+            getResultsByConsoleId4(result?.genreId, result?.popularityId, result?.difficultyId, result?.playerCountId).then((resultArray) => {
+                return setResults(resultArray)
+            })
+            console.log("4")
             break;
         case 5:
             getAllPlatformsResultsByIds(result?.genreId, result?.popularityId, result?.difficultyId, result?.playerCountId).then((resultArray) => {
@@ -67,7 +91,7 @@ useEffect(() => {
         <div>
             <style>{'body { background-color: navy; }'}</style>
             {results.map((singleResult) => {
-                return <div className="results-container" style={{color: 'white'}}>
+                return <div className="results-container" style={{color: 'white', display: 'flex', justifyContent: 'center'}}>
                     <h1>
                     {singleResult.title}
                     </h1>

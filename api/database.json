@@ -943,6 +943,15 @@
       "playerCountId": 3,
       "popularityId": 1,
       "consoleId": 1
+    },
+    {
+      "id": 101,
+      "title": "Celeste",
+      "difficultyId": 2,
+      "genreId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 5
     }
   ],
   "difficulties": [
@@ -1516,6 +1525,206 @@
       "playerCountId": 4,
       "popularityId": 1,
       "id": 37
+    },
+    {
+      "consoleId": 6,
+      "genreId": 1,
+      "difficultyId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 38
+    },
+    {
+      "consoleId": 2,
+      "genreId": 1,
+      "difficultyId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 39
+    },
+    {
+      "consoleId": 5,
+      "genreId": 3,
+      "difficultyId": 2,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "id": 40
+    },
+    {
+      "consoleId": 2,
+      "genreId": 1,
+      "difficultyId": 3,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 41
+    },
+    {
+      "consoleId": 3,
+      "genreId": 2,
+      "difficultyId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 42
+    },
+    {
+      "consoleId": 3,
+      "genreId": 2,
+      "difficultyId": 3,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 43
+    },
+    {
+      "consoleId": 3,
+      "genreId": 2,
+      "difficultyId": 3,
+      "playerCountId": 1,
+      "popularityId": 2,
+      "id": 44
+    },
+    {
+      "consoleId": 1,
+      "genreId": 1,
+      "difficultyId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 45
+    },
+    {
+      "consoleId": 2,
+      "genreId": 9,
+      "difficultyId": 1,
+      "playerCountId": 2,
+      "popularityId": 1,
+      "id": 46
+    },
+    {
+      "consoleId": 2,
+      "genreId": 9,
+      "difficultyId": 1,
+      "playerCountId": 2,
+      "popularityId": 1,
+      "id": 47
+    },
+    {
+      "consoleId": 2,
+      "genreId": 9,
+      "difficultyId": 1,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "id": 48
+    },
+    {
+      "consoleId": 2,
+      "genreId": 9,
+      "difficultyId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 49
+    },
+    {
+      "consoleId": 2,
+      "genreId": 9,
+      "difficultyId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 50
+    },
+    {
+      "consoleId": 2,
+      "genreId": 1,
+      "difficultyId": 2,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 51
+    },
+    {
+      "consoleId": 2,
+      "genreId": 1,
+      "difficultyId": 2,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "id": 52
+    },
+    {
+      "consoleId": 2,
+      "genreId": 1,
+      "difficultyId": 2,
+      "playerCountId": 2,
+      "popularityId": 1,
+      "id": 53
+    },
+    {
+      "consoleId": 7,
+      "genreId": 3,
+      "difficultyId": 2,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "id": 54
+    },
+    {
+      "consoleId": 7,
+      "genreId": 3,
+      "difficultyId": 2,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "id": 55
+    },
+    {
+      "consoleId": 7,
+      "genreId": 3,
+      "difficultyId": 2,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "id": 56
+    },
+    {
+      "consoleId": 7,
+      "genreId": 3,
+      "difficultyId": 2,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "id": 57
+    },
+    {
+      "consoleId": 7,
+      "genreId": 3,
+      "difficultyId": 2,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "id": 58
+    },
+    {
+      "consoleId": 5,
+      "genreId": 1,
+      "difficultyId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "id": 59
+    },
+    {
+      "consoleId": 5,
+      "genreId": 1,
+      "difficultyId": 1,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "id": 60
+    },
+    {
+      "consoleId": 9,
+      "genreId": 4,
+      "difficultyId": 2,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "id": 61
+    },
+    {
+      "consoleId": 4,
+      "genreId": 2,
+      "difficultyId": 1,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "id": 62
     }
   ]
 }

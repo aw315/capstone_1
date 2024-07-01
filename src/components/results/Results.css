@@ -2,10 +2,11 @@
     display: flex;
     align-content: center;
     flex-direction: column;
-    justify-content: center;
-    width: auto;
+    width: 55%;
     background-color: rgb(47, 121, 213) ;
     text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 body {
