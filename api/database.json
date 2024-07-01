@@ -556,6 +556,393 @@
       "playerCountId": 4,
       "popularityId": 1,
       "consoleId": 5
+    },
+    {
+      "id": 61,
+      "title": "Brawlhalla",
+      "difficultyId": 2,
+      "genreId": 6,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 62,
+      "title": "LEGO Star Wars: The Skywalker Saga",
+      "difficultyId": 1,
+      "genreId": 1,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 63,
+      "title": "Lies of P",
+      "difficultyId": 3,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 2,
+      "consoleId": 6
+    },
+    {
+      "id": 64,
+      "title": "The Stanley Parable",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 2,
+      "consoleId": 1
+    },
+    {
+      "id": 65,
+      "title": "The Last of Us",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 8
+    },
+    {
+      "id": 66,
+      "title": "The Last of Us Part II",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 8
+    },
+    {
+      "id": 67,
+      "title": "Super Mario 3D World",
+      "difficultyId": 1,
+      "genreId": 2,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 4
+    },
+    {
+      "id": 68,
+      "title": "Paper Mario: The Thousand-Year Door",
+      "difficultyId": 1,
+      "genreId": 5,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 4
+    },
+    {
+      "id": 69,
+      "title": "Crusader Kings III",
+      "difficultyId": 2,
+      "genreId": 5,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 70,
+      "title": "Civilization VI",
+      "difficultyId": 2,
+      "genreId": 5,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 71,
+      "title": "OlliOlli World",
+      "difficultyId": 1,
+      "genreId": 2,
+      "playerCountId": 1,
+      "popularityId": 2,
+      "consoleId": 6
+    },
+    {
+      "id": 72,
+      "title": "Unpacking",
+      "difficultyId": 1,
+      "genreId": 5,
+      "playerCountId": 4,
+      "popularityId": 2,
+      "consoleId": 5
+    },
+    {
+      "id": 73,
+      "title": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 74,
+      "title": "Kingdom Hearts 3",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 75,
+      "title": "Final Fantasy VII Remake",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 8
+    },
+    {
+      "id": 76,
+      "title": "World of Warcraft",
+      "difficultyId": 2,
+      "genreId": 4,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 1
+    },
+    {
+      "id": 77,
+      "title": "New World",
+      "difficultyId": 2,
+      "genreId": 4,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 1
+    },
+    {
+      "id": 78,
+      "title": "Elder Scrolls Online",
+      "difficultyId": 2,
+      "genreId": 4,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 79,
+      "title": "Chained Together",
+      "difficultyId": 3,
+      "genreId": 2,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 1
+    },
+    {
+      "id": 80,
+      "title": "A Difficult Game About Climbing",
+      "difficultyId": 3,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 2,
+      "consoleId": 1
+    },
+    {
+      "id": 81,
+      "title": "Jump King",
+      "difficultyId": 3,
+      "genreId": 2,
+      "playerCountId": 1,
+      "popularityId": 2,
+      "consoleId": 5
+    },
+    {
+      "id": 82,
+      "title": "Destiny 2",
+      "difficultyId": 2,
+      "genreId": 4,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 83,
+      "title": "Starfield",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 9
+    },
+    {
+      "id": 84,
+      "title": "Risk",
+      "difficultyId": 2,
+      "genreId": 5,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 85,
+      "title": "Rust",
+      "difficultyId": 3,
+      "genreId": 9,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 86,
+      "title": "Marvel Snap",
+      "difficultyId": 2,
+      "genreId": 5,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 1
+    },
+    {
+      "id": 87,
+      "title": "Legends of Runeterra",
+      "difficultyId": 2,
+      "genreId": 5,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 1
+    },
+    {
+      "id": 88,
+      "title": "Hearthstone",
+      "difficultyId": 2,
+      "genreId": 5,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 1
+    },
+    {
+      "id": 89,
+      "title": "Overwatch 2",
+      "difficultyId": 2,
+      "genreId": 3,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 90,
+      "title": "Resident Evil 4: Remake",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 91,
+      "title": "Tom Clancy's Ghost Recon Wildlands",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 92,
+      "title": "Tom Clancy's The Division 2",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 93,
+      "title": "Star Wars Jedi: Survivor",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 94,
+      "title": "Star Wars Jedi: Fallen Order",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 95,
+      "title": "Stray",
+      "difficultyId": 2,
+      "genreId": 2,
+      "playerCountId": 1,
+      "popularityId": 2,
+      "consoleId": 6
+    },
+    {
+      "id": 93,
+      "title": "Star Wars Jedi: Survivor",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 1,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 94,
+      "title": "A Way Out",
+      "difficultyId": 2,
+      "genreId": 1,
+      "playerCountId": 2,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 95,
+      "title": "Tekken 8",
+      "difficultyId": 2,
+      "genreId": 6,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 96,
+      "title": "Party Animals",
+      "difficultyId": 1,
+      "genreId": 3,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 97,
+      "title": "Terraria",
+      "difficultyId": 2,
+      "genreId": 9,
+      "playerCountId": 4,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 98,
+      "title": "PUBG: Battlegrounds",
+      "difficultyId": 2,
+      "genreId": 3,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 6
+    },
+    {
+      "id": 99,
+      "title": "Rocket League",
+      "difficultyId": 2,
+      "genreId": 3,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 5
+    },
+    {
+      "id": 100,
+      "title": "Escape from Tarkov",
+      "difficultyId": 3,
+      "genreId": 3,
+      "playerCountId": 3,
+      "popularityId": 1,
+      "consoleId": 1
     }
   ],
   "difficulties": [
