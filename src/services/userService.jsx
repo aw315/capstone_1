@@ -2,6 +2,7 @@ export const getUserByEmail = async (email) => {
     const response = await fetch(`http://localhost:8088/users?email=${email}`);
   
     const data = await response.json();
+    console.log(email)
     return data;
   };
   

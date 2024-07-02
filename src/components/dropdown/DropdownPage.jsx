@@ -78,7 +78,7 @@ export const DropdownPage = () => {
       <PopularityDropdown setSinglePopularity={setPopularity}/>
     </div>
     {/* <button onClick={handleSubmit}>Submit</button> */}
-    <div>
+    <div className="justify-content-center d-flex">
     <Button
       color="primary"
       href="#"

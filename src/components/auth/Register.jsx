@@ -30,18 +30,21 @@ export const Register = (props) => {
   const handleRegister = (e) => {
     e.preventDefault()
     getUserByEmail(user.email).then((response) => {
+      console.log(response)
       if (response.length > 0) {
         // Duplicate email. No good.
         window.alert("Account with that email address already exists")
       } else {
         // Good email, create user.
         registerNewUser()
+        navigate("/Dropdown")
       }
     })
   }
 
   const updateUser = (evt) => {
-    const copy = { ...customer }
+    console.log("anything")
+    const copy = { ...user }
     copy[evt.target.id] = evt.target.value
     setUser(copy)
   }
@@ -56,7 +59,7 @@ export const Register = (props) => {
         <fieldset>
           <div className="form-group">
             <input
-              onChange={updateUser}
+              onChange={((e) => updateUser(e))}
               type="email"
               id="email"
               className="form-control"
@@ -70,7 +73,7 @@ export const Register = (props) => {
         <fieldset>
           <div className="form-group">
             <input
-              onChange={updateUser}
+              onChange={((e) => updateUser(e))}
               type="password"
               id="password"
               className="form-control"
@@ -83,7 +86,7 @@ export const Register = (props) => {
         <fieldset>
           <div className="form-group">
             <input
-              onChange={updateUser}
+              onChange={((e) => updateUser(e))}
               type="username"
               id="username"
               className="form-control"

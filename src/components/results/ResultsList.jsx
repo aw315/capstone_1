@@ -90,8 +90,11 @@ useEffect(() => {
     return (
         <div>
             <style>{'body { background-color: navy; }'}</style>
+            <flexbox>
+            
+            <div style={{color: 'white', marginTop: '2rem', marginBottom: '2rem', flexDirection: 'column', gap: '2rem', alignItems: 'center', display: 'flex', justifyContent: 'center'}}>
             {results.map((singleResult) => {
-                return <div className="results-container" style={{color: 'white', display: 'flex', justifyContent: 'center'}}>
+                return <div className="results-container" style={{color: 'white', alignItems: 'center', display: 'flex', justifyContent: 'center'}}>
                     <h1>
                     {singleResult.title}
                     </h1>
@@ -104,7 +107,9 @@ useEffect(() => {
                 </div>
                 
             })}
-                <div>
+            </div>
+            </flexbox>
+                <div className="justify-content-center d-flex" style={{marginBottom: '2rem'}}>
                     <Button
                     color="primary"
                     href="#"
