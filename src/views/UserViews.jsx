@@ -4,6 +4,9 @@ import { DropdownPage } from "../components/dropdown/DropdownPage.jsx";
 import { Login } from "../components/auth/Login.jsx";
 import { Register } from "../components/auth/Register.jsx";
 import { ResultsList } from "../components/results/ResultsList.jsx";
+import { GamesList } from "../components/games/GameList.jsx";
+import { EditGameForm } from "../components/games/EditGameForm.jsx";
+import { AddGameForm } from "../components/games/AddGameForm.jsx";
 
 export const UserViews = (currentUser) => {
 
@@ -22,6 +25,10 @@ export const UserViews = (currentUser) => {
       <Route path="/login" element={<Login />} />
       <Route path="/register" element={<Register />} />
       <Route path="/results/:resultId" element={<ResultsList />} />
+      <Route path="/games/" element={<GamesList />} />
+      <Route path="/games/create" element={<AddGameForm />}/>
+      <Route path="/games/:gamesId" element={<EditGameForm />} />
+
   </Routes>
     )
 }
