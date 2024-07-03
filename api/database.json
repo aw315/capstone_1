@@ -589,14 +589,6 @@
       "genreId": 1,
       "difficultyId": 2,
       "playerCountId": 1,
-      "popularityId": 0,
-      "id": 4
-    },
-    {
-      "consoleId": 8,
-      "genreId": 1,
-      "difficultyId": 2,
-      "playerCountId": 1,
       "popularityId": 1,
       "id": 5
     },
